@@ -1,0 +1,23 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Node project for Front End Developer course at Medieinstitutet in Malmö.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susanneeneroth/node-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susanneeneroth/node-project/issues"
+  },
+  "homepage": "https://github.com/susanneeneroth/node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
