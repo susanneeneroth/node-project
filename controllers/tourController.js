@@ -26,6 +26,7 @@ exports.checkBody = (req, res, next) => {
   next();
 };
 
+
 exports.getAllTours = (req, res) => {
   console.log(req.requestTime);
 
@@ -90,3 +91,5 @@ exports.deleteTour = (req, res) => {
     data: null
   });
 };
+
+
